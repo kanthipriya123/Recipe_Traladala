@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-21T13:40:19 EDT" name="Suite" finished-at="2023-04-21T13:45:00 EDT" duration-ms="281122">
+    <groups>
+    </groups>
+    <test started-at="2023-04-21T13:40:19 EDT" name="Test" finished-at="2023-04-21T13:45:00 EDT" duration-ms="281122">
+      <class name="TestCase.BaseClass">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:TestCase.BaseClass@54f66455]" started-at="2023-04-21T13:40:19 EDT" name="OpenBrowser" finished-at="2023-04-21T13:40:32 EDT" duration-ms="13286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="excel_header()[pri:0, instance:TestCase.BaseClass@54f66455]" started-at="2023-04-21T13:40:32 EDT" name="excel_header" finished-at="2023-04-21T13:40:38 EDT" duration-ms="5372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel_header -->
+        <test-method signature="scrapedata()[pri:1, instance:TestCase.BaseClass@54f66455]" started-at="2023-04-21T13:40:39 EDT" name="scrapedata" finished-at="2023-04-21T13:45:00 EDT" duration-ms="261577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrapedata -->
+      </class> <!-- TestCase.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
